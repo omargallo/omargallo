@@ -78,13 +78,11 @@ passion: ["Clean Code", "Problem Solving", "Performance Optimization"]
 
 ### 📚 **Professional Training Completed**
 
-
-| Training Program | Focus Area | institution |
-|------------------|------------|----------|
-| 🧠 **Problem Solving Course** | Algorithms & Data Structures | Coach academy|
-| ⚙️ **Backend Development** | C# & .NET Framework | Route |
-| 🚀 **ITI Full-Stack intensive Program 4-monthes** | Complete .NET Stack | ITI |
-
+| Training Program | Institution |
+|------------------|-------------|
+| 🧠 **Problem Solving Course** | Coach Academy |
+| ⚙️ **Backend Development** | Route Academy |
+| 🚀 **ITI Full-Stack Intensive Program (4 months)** | ITI |
 
 </div>
 
@@ -95,25 +93,13 @@ When I'm not crafting elegant solutions in C#, you'll find me:
 - 🏊‍♂️ **Swimming** - My favorite way to clear my mind and think through complex problems
 - 💡 **Learning new technologies** - Always exploring the latest in software development
 
-## 📊 Weekly Development Breakdown
+## 📊 Development Language Stats
 
 <div align="center">
 
-[![Omar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omargallo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://wakatime.com/@omargallo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omargallo&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&size_weight=0.5&count_weight=0.5)
 
 </div>
-
-*Or alternatively, based on GitHub language stats:*
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omargallo&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=5)
-
-</div>
-
-## 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-kappa-livid.vercel.app/api/spotify)](https://open.spotify.com/user/omargallo)
 
 ---
 
