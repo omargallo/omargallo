@@ -87,21 +87,6 @@ passion: ["Clean Code", "Problem Solving", "Performance Optimization"]
 
 </div>
 
-## 🌟 Beyond Code
-
-When I'm not crafting elegant solutions in C#, you'll find me:
-
-- 🏊‍♂️ **Swimming** - My favorite way to clear my mind and think through complex problems
-- 💡 **Learning new technologies** - Always exploring the latest in software development
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omargallo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6)
-
-</div>
-
 ---
 
 <div align="center">
