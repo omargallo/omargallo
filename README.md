@@ -1,59 +1,23 @@
-# 🌟 Project Name
+# 👋 Hi, I'm Omar Gallo!
 
-> A short, impactful one-liner about what your project does or why it matters.
-
-![License](https://img.shields.io/github/license/yourusername/your-repo-name)
-![Issues](https://img.shields.io/github/issues/yourusername/your-repo-name)
-![Stars](https://img.shields.io/github/stars/yourusername/your-repo-name)
-![Forks](https://img.shields.io/github/forks/yourusername/your-repo-name)
+🎓 Computer Engineering Graduate | 💻 Aspiring Full-Stack .NET Developer | 🏋️‍♂️ Fitness Enthusiast
 
 ---
 
-## 🚀 Demo
+## 🚀 About Me
 
-> Live preview (if available): [Click here](https://your-demo-link.com)
-
----
-
-## 📸 Screenshots
-
-| Feature | Screenshot |
-|--------|------------|
-| Homepage | ![Home](./screenshots/home.png) |
-| Dashboard | ![Dashboard](./screenshots/dashboard.png) |
-
----
-
-## 🧠 Features
-
-- ✅ Feature 1 (e.g., User authentication)
-- 🚀 Feature 2 (e.g., Real-time updates)
-- 🎯 Feature 3 (e.g., Admin dashboard)
-- 💬 Feature 4 (e.g., Integrated reviews/comments)
+- 💡 Passionate about building robust backend systems and clean user interfaces.
+- 📚 Currently diving deep into **ASP.NET**, **C#**, and modern **frontend frameworks**.
+- 🎯 My goals include mastering **problem solving**, contributing to **open-source**, and becoming a top-notch **web developer**.
+- 📍 Based in Egypt | 🌍 Open to global opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React / Vue / HTML + CSS
-- **Backend:** Node.js / ASP.NET / Django
-- **Database:** PostgreSQL / MongoDB / MySQL
-- **APIs:** REST / GraphQL
-- **Other Tools:** Docker, JWT, GitHub Actions, etc.
-
----
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-
-# Navigate to the project directory
-cd your-repo-name
-
-# Install dependencies
-npm install
-
-# Run the app
-npm start
+```txt
+Languages:      C#, JavaScript, HTML, CSS
+Backend:        ASP.NET Core, Entity Framework
+Frontend:       React, Bootstrap, Razor Pages
+Databases:      SQL Server, MySQL
+Tools:          Git, GitHub, Postman, Visual Studio, VS Code
