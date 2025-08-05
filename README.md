@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 📫 How to reach me: omargallow33@gmail.com
+- ⚡ Fun fact: ...
 <!--
 **omargallo/omargallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
