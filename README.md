@@ -78,11 +78,12 @@ passion: ["Clean Code", "Problem Solving", "Performance Optimization"]
 
 ### 📚 **Professional Training Completed**
 
-| Training Program | Institution |
-|------------------|-------------|
-| 🧠 **Problem Solving Course** | Coach Academy |
-| ⚙️ **Backend Development** | Route Academy |
-| 🚀 **ITI Full-Stack Intensive Program (4 months)** | ITI |
+| Training Program | Focus Area | institution |
+|------------------|------------|----------|
+| 🧠 **Problem Solving Course** | Algorithms & Data Structures | Coach academy|
+| ⚙️ **Backend Development** | C# & .NET Framework | Route |
+| 🚀 **ITI Full-Stack intensive Program 4-months** | Complete .NET Stack | ITI |
+
 
 </div>
 
@@ -93,11 +94,11 @@ When I'm not crafting elegant solutions in C#, you'll find me:
 - 🏊‍♂️ **Swimming** - My favorite way to clear my mind and think through complex problems
 - 💡 **Learning new technologies** - Always exploring the latest in software development
 
-## 📊 Development Language Stats
+## 📊 Weekly Development Breakdown
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omargallo&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&size_weight=0.5&count_weight=0.5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omargallo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6)
 
 </div>
 
