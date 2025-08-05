@@ -64,7 +64,8 @@ passion: ["Clean Code", "Problem Solving", "Performance Optimization"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargallo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6"/>
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omargallo&theme=tokyonight&hide_border=true&background=0D1117)
-  
+    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omargallo&theme=github-compact&bg_color=0D1117&hide_border=true&line=00D9FF&point=FFFFFF)
+
 
 </div>
 
